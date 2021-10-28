@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T15:09:53.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.0" etag="3SVp3oAYmF7ucH7LOSB0" type="github"><diagram id="otO7Sl04ZBGA25HpG-zK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-28T15:59:44.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cDvL1hRggYOf7qX43CrQ" version="15.6.0" type="github">
+  <diagram id="otO7Sl04ZBGA25HpG-zK" name="Page-1">
+    <mxGraphModel dx="1848" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgDKzYD7DtakHavf45tD-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Управление компетенциями&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="100" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Перечень компетенций&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="145" as="sourcePoint" />
+            <mxPoint x="-322" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-3" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Перечень индикаторов&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=-0.015;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="178" as="sourcePoint" />
+            <mxPoint x="-322" y="176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-4" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Список контролируемых дейтсвий&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.111;entryDx=0;entryDy=0;exitX=1.019;exitY=0.074;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-5" target="TgDKzYD7DtakHavf45tD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-532" y="108" as="sourcePoint" />
+            <mxPoint x="-322" y="108" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-5" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Управление контролируемыми действиями по проверке&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="100" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-6" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;.Перечень знаний&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="123" as="sourcePoint" />
+            <mxPoint x="-710" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-7" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Перечень умений&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="146" as="sourcePoint" />
+            <mxPoint x="-630" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Перечень владений&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-800" y="167" as="sourcePoint" />
+            <mxPoint x="-630" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-9" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Компетенции&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.134;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-1">
+          <mxGeometry x="-0.0035" y="2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-232" y="112" as="sourcePoint" />
+            <mxPoint x="-72" y="112" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-10" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Управление разделами дисциплин&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="260" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-11" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Список разделов&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="289" as="sourcePoint" />
+            <mxPoint x="-589.3199999999999" y="289.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-12" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Виды занятий&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="309" as="sourcePoint" />
+            <mxPoint x="-589" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-13" value="Форма обучения" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="270" as="sourcePoint" />
+            <mxPoint x="-590" y="270" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-17" value="Часы по виду занятия" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-730" y="330" as="sourcePoint" />
+            <mxPoint x="-590" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-18" value="Разделы дисциплины по формам обучения" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-429" y="305" as="sourcePoint" />
+            <mxPoint x="-240" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-19" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Управление темами по виду занятия&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-20" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Оценочные средства&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="379" as="sourcePoint" />
+            <mxPoint x="-100" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Критерии оценок&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="399" as="sourcePoint" />
+            <mxPoint x="-99" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-22" value="Список тем" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="360" as="sourcePoint" />
+            <mxPoint x="-100" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-23" value="Разделы, виды занятий, семестр" style="endArrow=classic;html=1;rounded=0;exitX=1.011;exitY=0.672;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="420" as="sourcePoint" />
+            <mxPoint x="-100" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="320" />
+              <mxPoint x="-440" y="420" />
+              <mxPoint x="-180" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-24" value="Темы по видам занятий и семестру&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="395" as="sourcePoint" />
+            <mxPoint x="210" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-25" value="Семестр" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-720" y="350" as="sourcePoint" />
+            <mxPoint x="-640" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-26" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Список контролируемых дейтсвий&lt;/font&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.01;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-5" target="TgDKzYD7DtakHavf45tD-19">
+          <mxGeometry x="-0.0263" y="7" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-504.94799999999987" y="228.99199999999985" as="sourcePoint" />
+            <mxPoint x="-302.01" y="230.9899999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-440" y="191" />
+              <mxPoint x="-440" y="280" />
+              <mxPoint x="-200" y="280" />
+              <mxPoint x="-200" y="350" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-28" value="Управление методическими указаниями по виду занятия" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="440" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-29" value="Типы методик" style="endArrow=classic;html=1;rounded=0;entryX=-0.017;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="451" as="sourcePoint" />
+            <mxPoint x="-330" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-30" value="Данные о методиках" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TgDKzYD7DtakHavf45tD-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="470" as="sourcePoint" />
+            <mxPoint x="-340" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-32" value="Виды занятий" style="endArrow=classic;html=1;rounded=0;entryX=0.011;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-10" target="TgDKzYD7DtakHavf45tD-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="493" as="sourcePoint" />
+            <mxPoint x="-380" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="350" />
+              <mxPoint x="-480" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgDKzYD7DtakHavf45tD-33" value="Методические указания по виду занятия" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgDKzYD7DtakHavf45tD-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="520" as="sourcePoint" />
+            <mxPoint x="50" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
